@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Hello! My name is Lisa and I am currently a graduate student in UBC MDS-CL program. I graduated from University of Wisconsin-Madison in 2024. Meanwhile, I am on a research project where I work with a team of researchers to develop and extend a model for material prediction. I had Bachelor's degrees in Pharmaceutical Sciences, Data Science and Computer Science. My core competencies include different programming languages such as Python, Java, R, SQL, etc., project management, and data analysis. I also learned pharmacology with inpatient care while in the School of Pharmacy.
+
+In addition to my research work, I have also gained valuable experience as a data science intern at Jobster.io, a resume-generation tool company. I designed test cases, tuned the algorithm, developed interactive diagrams and dashboards, and contributed to drafting a selling deck for the company. I have skills in Python, Vertex AI, and Sankey Diagrams, and I am interested in applying data science to solve real-world problems. I value collaboration, innovation, and diversity, and I believe I can bring a unique perspective and experience to the team.
